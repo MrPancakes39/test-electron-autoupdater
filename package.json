@@ -1,0 +1,20 @@
+{
+  "name": "test-electron-autoupdater",
+  "version": "1.0.0",
+  "description": "Testing Electron's AutoUpdater",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "test",
+    "electron",
+    "autoupdater"
+  ],
+  "author": "Salman Hasan <salmannhassan39@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.1.0",
+  "devDependencies": {
+    "electron": "13.1.6"
+  }
+}
