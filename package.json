@@ -15,6 +15,6 @@
   "license": "MIT",
   "packageManager": "yarn@3.1.0",
   "devDependencies": {
-    "electron": "28.3.2"
+    "electron": "39.8.4"
   }
 }
